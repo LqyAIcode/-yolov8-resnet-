@@ -1,2 +1,10 @@
 # -yolov8-resnet-
-研一视觉检测大作业项目（有用代码：json格式转换代码，yolov8部署与训练代码，resnet分类与回归决策级融合代码，神经网络特征图可视化代码）
+Age detection task based on facial images 
+
+Useful codes: 
+json format conversion code for labels;
+yolov8 deployment and training code;
+resnet classification and regression decision level fusion code;
+neural network feature map visualisation code.
+
+--Visual detection major assignment project
